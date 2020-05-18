@@ -4,3 +4,4 @@
 # Use simple controls w,a,s,d to play
 # Keeps track of current score and high score 
 # Each new tile is highlighted with a pink font.
+# created in Windows
